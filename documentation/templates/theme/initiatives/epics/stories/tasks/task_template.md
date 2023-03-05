@@ -1,6 +1,6 @@
-Task Title: [Create Login Functionality]
+Task Title: [Short, descriptive title for the task]
 
-User Story: [As a registered user, I want to be able to log in to the website so that I can access my account information]
+User Story: [Reference the user story that this task supports]
 
 Description: [The task involves creating the login functionality for the website. This will include designing the login page, creating the necessary backend code to authenticate users, and creating the necessary database tables to store user information. The acceptance criteria for this task include:
 1.The login page should be user-friendly and responsive.
@@ -12,10 +12,11 @@ The task has dependencies on the database and authentication system. The databas
 git
 Effort Estimate: [6 hours]
 
-Assigned To: [Ramya Kammari]
 
-Priority: [High]
+Assigned To: [Assign the task to a team member who will be responsible for completing it]
 
-Status: [Not Started]
+Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
 
-Notes: [None]
+Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+
+Notes: [Include]
