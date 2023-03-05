@@ -1,6 +1,6 @@
 Create DevOps process for continuous growth of website "
 
-Description: [The goal of this initiative is to create a login functionality app using HTML and CSS. This app will allow users to create an account, log in, and access their account information. The app will be designed to be user-friendly and secure, with a focus on performance and accessibility]
+Description:[This project aims to use HTML and CSS to build a login feature app. Users of this app will be able to register for an account, log in, and access account data. The app's design will prioritize performance and accessibility while also being user-friendly and secure.]
 
 Goals: [Create a user-friendly login functionality app using HTML and CSS that is secure, performant, and accessible.]
 
