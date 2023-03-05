@@ -36,11 +36,7 @@ Tools and systems:Text editor: A text editor is required to write HTML and CSS c
 Version control system: A version control system, such as Git, is essential to manage changes to the codebase and collaborate with other team members.
 Browser development tools: The use of browser development tools can help to test and debug the login functionality.]
 
-Team: [Project Manager: The project manager is responsible for overseeing the project and ensuring that it is delivered on time and within budget. They are also responsible for communicating with stakeholders and ensuring that their requirements are met.
-DevOps Engineer: The DevOps engineer is responsible for implementing and maintaining the login functionality, including the selection and configuration of tools and systems required to develop and deploy the application.
-Infrastructure Engineer: The infrastructure engineer is responsible for managing the backend infrastructure required for the login functionality, including servers, storage, and cloud-based platforms. They work closely with the DevOps engineer to ensure that the infrastructure is configured to meet the application's requirements.
-Front-end Developer: The front-end developer is responsible for writing the HTML and CSS code required to implement the login functionality. They work closely with the DevOps engineer to ensure that the code is compatible with the backend infrastructure.
-Quality Assurance Engineer: The quality assurance engineer is responsible for testing the login functionality and ensuring that it meets the stakeholders' requirements. They work closely with the DevOps engineer and front-end developer to identify and fix any issues that arise during testing.]
+Team: [Project Manager: The project manager is in charge of managing the project and making sure that it is completed on schedule and within the allotted budget. Also, they are in charge of keeping in touch with stakeholders and seeing to it that their needs are satisfied.]
 
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
