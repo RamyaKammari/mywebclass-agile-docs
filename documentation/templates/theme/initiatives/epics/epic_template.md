@@ -6,7 +6,7 @@ Goals: [The goals of this app are to provide a secure and user-friendly login pr
 
 User Stories: [ 1. As a user, I want to be able to create a new account by providing my email address and a password. 2. As a user, I want to be able to login to my account with my email address and password. 3. As a user, I want to be able to reset my password in case I forget it. 4. As a user, I want to be able to update my account information, such as my email address or password.5. As a user, I want to be able to view my account history and activity.]
 
-Dependencies: [1. User interface design.2. Database management system.3. API for authentication and authorization.`1    qa4. Secure server environment]
+Dependencies: [Designing user interfaces. System for managing databases. 3. Authorization and authentication API. Secure server environment 1 qa4]
 
 Risks: [ 1. Security risks such as data breaches and hacks.2. User data privacy risks. 3. Technical issues such as bugs and compatibility issues.]
 
