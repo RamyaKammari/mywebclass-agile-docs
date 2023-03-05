@@ -6,7 +6,7 @@ By following this template, you can create user stories that are structured and 
 
 Acceptance Criteria:
 
-The website must have clear and consistent branding throughout all pages and elements.
+The branding must be distinct and consistent across all pages and website components.
 The website must be functional and provide all features and functionality required by the project specifications.
 The website must be responsive and work on all major devices and screen sizes, including desktops, laptops, tablets, and smartphones.
 The website must be secure and protect user data and information from unauthorized access, misuse, or hacking attempts
